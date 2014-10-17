@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rit:home|Door43 (rit)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rit|d43-rit repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rit/archive/master.zip|d43-rit.zip]]
+
+**Recent Changes**
+{{changes>ns = rit}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rit|Ethnologue data]]
+
